@@ -1,9 +1,0 @@
-{
-  "default": {
-    "paths": ["src/test/features/**/*.feature"],
-    "requireModule": ["ts-node/register"],
-    "require": ["src/test/step-definitions/**/*.ts"],
-    "publishQuiet": true,
-    "dryRun": false
-  }
-}
